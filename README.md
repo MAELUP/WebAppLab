@@ -1,3 +1,3 @@
 # WebAppLab
-test self Web app
-database : SqlWebProLab1.txt
+# test self Web app
+# database : SqlWebProLab1.txt
